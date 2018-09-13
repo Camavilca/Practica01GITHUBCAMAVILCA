@@ -1,6 +1,7 @@
 package Model;
 
 public class User {
+
 	private String nombre;
 	private String apellido;
 	private String paterno;
@@ -29,7 +30,6 @@ public class User {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
-	
-	
+
 	
 }
